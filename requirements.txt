@@ -1,0 +1,5 @@
+pyTelegramBotApi
+pymongo
+flask
+requests
+mongoengine
